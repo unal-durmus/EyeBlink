@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EyeBlink", "EyeBlink\EyeBlink.pyproj", "{F232B8A7-0BCA-463E-8323-661C3646E7F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F232B8A7-0BCA-463E-8323-661C3646E7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F232B8A7-0BCA-463E-8323-661C3646E7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E5C9E4-E9CD-43C3-B00F-AE53FC9F49B4}
+	EndGlobalSection
+EndGlobal
